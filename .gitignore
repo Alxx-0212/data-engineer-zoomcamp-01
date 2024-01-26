@@ -1,0 +1,3 @@
+*.json
+terraform_with_variables/.terraform/providers/
+postgres/main/
